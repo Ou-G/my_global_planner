@@ -1,0 +1,7 @@
+<library path="lib/librobot_planner">
+  <class name="robot_planner/RobotPlanner" type="robot_planner::RobotPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      A simple planner that seeks to place a legal carrot 
+    </description>
+  </class>
+</library>

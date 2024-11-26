@@ -156,3 +156,4 @@ PLUGINLIB_EXPORT_CLASS(robot_planner::RobotPlanner, nav_core::BaseGlobalPlanner)
    return done;
   }
 }; //global plannerのnamespace用のかっこ
+//
